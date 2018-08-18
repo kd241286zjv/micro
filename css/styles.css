@@ -1059,4 +1059,10 @@ footer .col-xl-4:last-child{
   .dielersContacts{
     width: 100%;
   }
+  .modal-dialog{
+    width: 95%;
+  }
+  .modal-content{
+    padding: 20px;
+  }
 }
